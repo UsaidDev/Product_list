@@ -1,0 +1,14 @@
+
+.header{
+    height: 50px;
+    width: auto;
+    background-color: rgb(64, 212, 212);
+}
+.product-name{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.product-name h1{
+    color: white;
+}
